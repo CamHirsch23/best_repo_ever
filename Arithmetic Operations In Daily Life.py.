@@ -1,0 +1,23 @@
+# Question 3 
+# Task 1 and Task 2
+
+# Prices of individual items
+price_bread = 2.50
+price_peanut_butter = 3.75
+price_jelly = 4.00
+
+# Calculate total cost
+total_cost = price_bread + price_peanut_butter + price_jelly
+
+# Print the total cost
+print("Total cost of bread, peanut butter, and jelly is: $", total_cost)
+
+# Initial amount and interest rate
+principal = 10000
+interest_rate = 0.07
+
+# Calculate total amount after a year
+total_amount = principal + (principal * interest_rate)
+
+# Print the total amount
+print("Total amount in the account after a year is: $", total_amount)
